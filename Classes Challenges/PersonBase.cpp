@@ -25,4 +25,5 @@ std::string PersonBase::GetEmail() const {
 void PersonBase::ToString() const {
 	std::string output = name_ + " " + email_ + " " + "\n";
 
+
 }

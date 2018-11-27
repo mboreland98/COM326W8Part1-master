@@ -35,7 +35,7 @@ private:
 	//int moduleTwoMark_;
 	//int moduleThreeMark_;
 	float CalculateAverage() const;
-
+	 
 	
 
 public:

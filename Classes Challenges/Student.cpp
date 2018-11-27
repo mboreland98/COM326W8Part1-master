@@ -69,6 +69,7 @@ bool Student::operator==(const Student& right) const {
 
 //Getters and setters
 
+
 }
 //Make getters const so that it tells the compiler to complain if we accidentlly 
 //try to change a data member 
